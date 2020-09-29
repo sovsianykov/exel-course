@@ -10,11 +10,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9fcc117-1f6c-4a65-9866-52a0dcc051c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b9fcc117-1f6c-4a65-9866-52a0dcc051c2" name="Default Changelist" comment=" gulp config 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/formula.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/formula.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/toolbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/toolbar.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +31,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gtyissN2HkQSmbnjR7tEaODWQw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,9 +42,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="tasks.timeTracking" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pericle/build/index.html" useBuiltInWebServerPort="true">
@@ -67,8 +79,33 @@
       <workItem from="1599406036824" duration="19000" />
       <workItem from="1599725150921" duration="1540000" />
       <workItem from="1601319601016" duration="80000" />
-      <workItem from="1601319716897" duration="3659000" />
+      <workItem from="1601319716897" duration="4236000" />
+      <workItem from="1601324029690" duration="6677000" />
+      <workItem from="1601378631302" duration="1731000" />
+      <workItem from="1601399617307" duration="6264000" />
     </task>
+    <task id="LOCAL-00001" summary="gulp config">
+      <created>1601323412578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601323412578</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" gulp config 2">
+      <created>1601326148126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601326148126</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" gulp config 2">
+      <created>1601380354880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601380354880</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +121,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gulp config" />
+    <MESSAGE value=" gulp config 2" />
+    <option name="LAST_COMMIT_MESSAGE" value=" gulp config 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="722" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601321860019">
@@ -94,13 +137,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1598956682249" />
+    <state x="540" y="255" key="IDE.errors.dialog" timestamp="1601399803744">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="255" key="IDE.errors.dialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601399803744" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1598972104651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1598972104651" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601362880834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601362880834" />
     <state x="668" y="95" width="583" height="849" key="find.popup" timestamp="1601322976389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="95" width="583" height="849" key="find.popup/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601322976389" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601362234005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601362234005" />
+    <state x="682" y="425" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1601400786316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="425" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601400786316" />
   </component>
 </project>
