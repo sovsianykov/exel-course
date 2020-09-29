@@ -12,15 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b9fcc117-1f6c-4a65-9866-52a0dcc051c2" name="Default Changelist" comment=" gulp config 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/formula.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/formula.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/table.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/toolbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/toolbar.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +73,7 @@
       <workItem from="1601319716897" duration="4236000" />
       <workItem from="1601324029690" duration="6677000" />
       <workItem from="1601378631302" duration="1731000" />
-      <workItem from="1601399617307" duration="6264000" />
+      <workItem from="1601399617307" duration="7143000" />
     </task>
     <task id="LOCAL-00001" summary="gulp config">
       <created>1601323412578</created>
