@@ -16,11 +16,8 @@
       <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/formula.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/formula.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_mixins.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/table.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/toolbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/toolbar.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +75,8 @@
       <workItem from="1599725150921" duration="1540000" />
       <workItem from="1601319601016" duration="80000" />
       <workItem from="1601319716897" duration="4236000" />
-      <workItem from="1601324029690" duration="5003000" />
+      <workItem from="1601324029690" duration="6677000" />
+      <workItem from="1601378631302" duration="1419000" />
     </task>
     <task id="LOCAL-00001" summary="gulp config">
       <created>1601323412578</created>
@@ -126,21 +124,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1598956682249" />
-    <state x="540" y="255" key="IDE.errors.dialog" timestamp="1601323810577">
+    <state x="540" y="255" key="IDE.errors.dialog" timestamp="1601378807466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="540" y="255" key="IDE.errors.dialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601323810577" />
+    <state x="540" y="255" key="IDE.errors.dialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601378807466" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1598972104651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1598972104651" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601327636505">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1601362880834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601327636505" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601362880834" />
     <state x="668" y="95" width="583" height="849" key="find.popup" timestamp="1601322976389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="95" width="583" height="849" key="find.popup/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601322976389" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601362234005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1601362234005" />
   </component>
 </project>
